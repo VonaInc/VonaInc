@@ -1,5 +1,5 @@
 from Vona import Learning
-class Exploit(H4xton):
+class Exploit(Vona):
     def __init__(self):
         self.name = "Vona/Karse"
         self.age = "14"
