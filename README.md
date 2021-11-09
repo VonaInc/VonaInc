@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VonaInc
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C#
+- 💞️ I’m working on stupid projects
+- 📫 How to reach me by my discord https://discord.gg/e9jRwmtvKR
